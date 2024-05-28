@@ -33,3 +33,5 @@ $sifre = "";
 
 $veritabani = "oluşturdugunuz veritabanının adı olacak burada";
 
+
+https://youtu.be/cKft9eRHVAk
