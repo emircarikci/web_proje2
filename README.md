@@ -13,7 +13,7 @@ Sql dosyasını indirin ve xammp uygulamasını açıp mysql ve apache çalışt
 Sql dosyalarını phpMyAdmin arayüzünden import edin ve veritabanını oluşturun.
 
 Php dosyalarını indirin ve bunları bir web sunucusuna yükleyin filezilla gibi.
-kök dizini olan /public_html kısmına hepsini yükleyin ve bağlayın.
+Kök dizini olan /public_html kısmına hepsini yükleyin ve bağlayın.
 Ardından index.php dosyasındaki sunucu bağlama kısmını (genellikle aşagıdaki gibi degiştirilir) degiştirin.
 $sunucu = "localhost";
 $kullanici_adi = "root";
